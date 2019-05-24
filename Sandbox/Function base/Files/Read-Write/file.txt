@@ -1,0 +1,2 @@
+Пишем строку в файл
+Add string to file
